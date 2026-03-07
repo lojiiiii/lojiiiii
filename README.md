@@ -4,3 +4,5 @@
     Hi, I'm Lojithan
   </h1>
 </div>
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Programmer Animation">
